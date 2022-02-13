@@ -1,0 +1,17 @@
+#5C1 terralith:alpine_highlands
+#5E9 terralith:blooming_plateau
+#1FE terralith:blooming_valley
+#79D terralith:cave/andesite_caves
+#4CA minecraft:dripstone_caves
+#5E2 terralith:forested_highlands
+#27F terralith:lush_valley
+#2D6 minecraft:meadow
+#73A minecraft:old_growth_pine_taiga
+#3A3 terralith:orchid_swamp
+#5FF minecraft:river
+#4C8 terralith:shield
+#553 terralith:siberian_taiga
+#720 terralith:steppe
+#4D3 minecraft:swamp
+#169 minecraft:taiga
+#1D0 terralith:yellowstone

@@ -1,0 +1,5 @@
+{
+	warps: {
+		lemon: { dim: "minecraft:overworld", x: -270, y: 65, z: -34, time: 1644114483131L }
+	}
+}

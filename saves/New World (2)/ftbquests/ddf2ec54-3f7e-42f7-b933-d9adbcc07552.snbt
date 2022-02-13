@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "ddf2ec543f7e42f7b933d9adbcc07552"
+	name: "Epticx"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

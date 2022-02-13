@@ -1,0 +1,19 @@
+{
+	id: "ddf2ec54-3f7e-42f7-b933-d9adbcc07552"
+	type: "player"
+	player_name: "Epticx"
+	ranks: {
+		ddf2ec54-3f7e-42f7-b933-d9adbcc07552: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Epticx"
+		"ftbteams:color": "#59A6FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
