@@ -24,8 +24,8 @@ fov:0.775
 screenEffectScale:1.0
 fovEffectScale:1.0
 gamma:0.5
-renderDistance:12
-simulationDistance:10
+renderDistance:8
+simulationDistance:8
 entityDistanceScaling:1.0
 guiScale:3
 particles:0
@@ -134,8 +134,8 @@ key_key.ftbchunks.minimap.zoomOut:key.keyboard.minus
 key_Reload Menu | CTRL + ALT + :key.keyboard.r
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.unknown
 key_key.carry.desc:key.keyboard.left.shift
-key_placebo.toggleTrails:key.keyboard.keypad.9
 key_key.tinyredstone.rotation_lock:key.keyboard.left.alt
+key_placebo.toggleTrails:key.keyboard.keypad.9
 key_placebo.toggleWings:key.keyboard.keypad.8
 key_keybind.ironjetpacks.engine:key.keyboard.v
 key_keybind.ironjetpacks.hover:key.keyboard.g
@@ -176,6 +176,8 @@ key_key.ars_nouveau.selection_hud:key.keyboard.v
 key_key.ars_nouveau.previous_slot:key.keyboard.z
 key_key.ars_nouveau.next_slot:key.keyboard.x
 key_key.openManual:key.keyboard.f1
+key_key.tconstruct.helmet_interact:key.keyboard.z
+key_key.tconstruct.leggings_interact:key.keyboard.i
 key_quark.emote.no:key.keyboard.unknown
 key_quark.emote.yes:key.keyboard.unknown
 key_quark.emote.wave:key.keyboard.unknown
@@ -194,13 +196,11 @@ key_quark.keybind.patreon_emote.dab:key.keyboard.unknown
 key_quark.keybind.patreon_emote.jet:key.keyboard.unknown
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
-key_key.tconstruct.helmet_interact:key.keyboard.z
-key_key.tconstruct.leggings_interact:key.keyboard.i
-key_quark.keybind.change_hotbar:key.keyboard.z
-key_quark.keybind.autorun:key.keyboard.unknown
 key_key.modularrouters.configure:key.keyboard.unknown
 key_key.modularrouters.moduleInfo:key.keyboard.i
+key_quark.keybind.sort_player:key.keyboard.unknown
 key_key.refinedstorageaddons.openWirelessCraftingGrid:key.keyboard.g
+key_quark.keybind.sort_container:key.keyboard.unknown
 key_mod.chiselsandbits.keys.key.modded-tool.open:key.keyboard.r
 key_mod.chiselsandbits.keys.key.modded-tool.cycle.left:key.keyboard.unknown
 key_mod.chiselsandbits.keys.key.modded-tool.cycle.right:key.keyboard.unknown
@@ -208,17 +208,17 @@ key_mod.chiselsandbits.keys.key.measuring-tape.reset:key.mouse.right
 key_mod.chiselsandbits.keys.key.undo:key.keyboard.z
 key_mod.chiselsandbits.keys.key.redo:key.keyboard.y
 key_mod.chiselsandbits.keys.key.zoom:key.keyboard.z
-key_quark.keybind.transfer_insert:key.keyboard.unknown
-key_quark.keybind.transfer_extract:key.keyboard.unknown
-key_quark.keybind.shift_lock:key.keyboard.unknown
-key_quark.keybind.sort_player:key.keyboard.unknown
-key_quark.keybind.sort_container:key.keyboard.unknown
+key_quark.keybind.change_hotbar:key.keyboard.z
+key_quark.keybind.autorun:key.keyboard.unknown
 key_key.immersiveengineering.magnetEquip:key.keyboard.s
 key_key.immersiveengineering.railgunZoom:key.mouse.middle
 key_key.immersiveengineering.chemthrowerSwitch:key.keyboard.unknown
 key_key.cyclic.cake:key.keyboard.x
-key_quark.keybind.back:key.mouse.4
 key_quark.keybind.camera_mode:key.keyboard.f12
+key_quark.keybind.back:key.mouse.4
+key_quark.keybind.transfer_insert:key.keyboard.unknown
+key_quark.keybind.transfer_extract:key.keyboard.unknown
+key_quark.keybind.shift_lock:key.keyboard.unknown
 key_quark.keybind.lock_rotation:key.keyboard.k
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
@@ -227,11 +227,11 @@ key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.sort:key.mouse.middle
-key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z
+key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x
+key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z
+key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_key.jei.toggleOverlay:key.keyboard.o
 key_key.jei.focusSearch:key.keyboard.f
 key_key.jei.previousPage:key.keyboard.unknown

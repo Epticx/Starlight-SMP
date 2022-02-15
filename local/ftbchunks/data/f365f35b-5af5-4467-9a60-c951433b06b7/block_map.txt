@@ -1,5 +1,11 @@
+#C73257 cfm:acacia_blinds
+#810350 mcwbridges:acacia_bridge_pier
+#BF2E08 mcwbridges:acacia_log_bridge_stair
 #BA2462 mcwfences:acacia_picket_fence
+#DA31EB chipped:acacia_planks_9
+#A51774 mcwbridges:acacia_rope_bridge_stair
 #C722B0 minecraft:acacia_slab
+#688BDE mcwfences:acacia_stockade_fence
 #FBEB73 minecraft:allium
 #FA75A8 minecraft:andesite
 #0F359D minecraft:azure_bluet
@@ -15,6 +21,7 @@
 #3AE802 minecraft:brown_mushroom_block
 #00BE18 minecraft:calcite
 #818ABF forbidden_arcanus:carved_edelwood_log
+#AA9109 minecraft:chiseled_stone_bricks
 #C5DEED croptopia:cinnamon_leaves
 #7FDE54 minecraft:clay
 #DE242D minecraft:coal_ore
@@ -64,6 +71,7 @@
 #83CED3 minecraft:lava
 #7675DE alexsmobs:leafcutter_anthill
 #0DC263 chipped:light_gray_stained_glass_7
+#EC280B minecraft:light_gray_terracotta
 #7482E4 minecraft:lilac
 #746434 create:limestone
 #9812BA quark:limestone
@@ -89,6 +97,7 @@
 #AB1C58 minecraft:peony
 #36285C minecraft:pink_tulip
 #BB7F65 minecraft:podzol
+#437566 minecraft:polished_granite
 #AFAC0D minecraft:poppy
 #E6B35B minecraft:pumpkin
 #8DE070 ae2:quartz_ore
@@ -119,7 +128,10 @@
 #43D995 minecraft:stone_brick_stairs
 #F8955F minecraft:stone_bricks
 #AB5BC7 minecraft:stone_slab
+#7CF0AC cfm:stripped_acacia_coffee_table
 #BFF29C minecraft:stripped_acacia_log
+#A0692A mcwwindows:stripped_acacia_log_window2
+#3D5F4B cfm:stripped_acacia_upgraded_fence
 #F1B8D3 supplementaries:structure_temp
 #5CF3F1 minecraft:sugar_cane
 #329213 minecraft:sweet_berry_bush
