@@ -1,0 +1,42 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = starlight_bg.jpg
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = true
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  delayappearanceseconds = 1.0
+  path = starlight_logo.png
+  fadein = true
+  fadeinspeed = 1.0
+  x = 314
+  width = 239
+  action = addtexture
+  actionid = 2fd0a910-36d5-451b-acab-1897289666ff1644972039704
+  y = 29
+  delayappearance = true
+  delayappearanceeverytime = false
+  height = 135
+}
+
+customization {
+  identifier = %id=502346%
+  action = setbuttonlabel
+  value = Discord
+}
+

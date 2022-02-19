@@ -1,4 +1,4 @@
-#Sun Feb 13 18:34:41 GMT 2022
+#Thu Feb 17 00:31:50 GMT 2022
 handDepthMul=0.125
 TexMinFilB=0
 oldLighting=default
@@ -6,7 +6,7 @@ TexMagFilN=0
 tweakBlockDamage=false
 cloudShadow=false
 TexMagFilS=0
-shaderPack=SEUS-v11.0.zip
+shaderPack=OFF
 TexMinFilN=0
 specularMapEnabled=true
 normalMapEnabled=true
