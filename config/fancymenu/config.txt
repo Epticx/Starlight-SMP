@@ -26,9 +26,9 @@ B:showcustomizationbuttons = 'true';
 S:copyrightposition = 'bottom-right';
 B:hidebranding = 'false';
 S:copyrightcolor = '#ffffff';
-B:hidelogo = 'false';
-B:hiderealmsnotifications = 'false';
-B:hideforgenotifications = 'false';
+B:hidelogo = 'true';
+B:hiderealmsnotifications = 'true';
+B:hideforgenotifications = 'true';
 
 
 ##[mainmenu_splash]

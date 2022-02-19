@@ -5,6 +5,7 @@ customization-meta {
   randomgroup = 1
   renderorder = foreground
   randommode = false
+  minimummcversion = 1.18.1
   randomonlyfirsttime = false
 }
 
@@ -19,24 +20,134 @@ customization {
 }
 
 customization {
-  orientation = top-left
-  delayappearanceseconds = 1.0
-  path = starlight_logo.png
-  fadein = true
-  fadeinspeed = 1.0
-  x = 314
-  width = 239
-  action = addtexture
-  actionid = 2fd0a910-36d5-451b-acab-1897289666ff1644972039704
-  y = 29
-  delayappearance = true
-  delayappearanceeverytime = false
-  height = 135
+  identifier = %id=604382%
+  orientation = mid-centered
+  x = -53
+  action = movebutton
+  y = -18
+}
+
+customization {
+  identifier = %id=376322%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376322%
+  orientation = mid-centered
+  x = 133
+  action = movebutton
+  y = 5
+}
+
+customization {
+  identifier = %id=376322%
+  width = 25
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 6
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = 6
+}
+
+customization {
+  identifier = %id=376382%
+  orientation = mid-centered
+  x = -77
+  action = movebutton
+  y = -18
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = mid-centered
+  x = -30
+  action = movebutton
+  y = -18
+}
+
+customization {
+  identifier = %id=400346%
+  width = 28
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=502346%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = -18
 }
 
 customization {
   identifier = %id=502346%
   action = setbuttonlabel
   value = Discord
+}
+
+customization {
+  identifier = %id=376346%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -18
+}
+
+customization {
+  path = starlight_logo01.png
+  orientation = mid-centered
+  x = -103
+  width = 220
+  action = addtexture
+  actionid = bcf36a79-b120-4cad-ae18-86d8775ef3131645278703515
+  y = -179
+  height = 122
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = 2
+  width = 98
+  actionid = 7d0c4204-4377-478a-815e-d7f570dc826d1645278807613
+  action = addbutton
+  y = -18
+  label = Starlight Discord
+  value = https://discord.gg/gjGjZU2M38
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  shadow = false
+  x = 5
+  action = addtext
+  actionid = f8c1965a-be5a-4d6e-ab07-6445354d9ef91645280125828
+  y = 5
+  scale = 1.0
+  alignment = left
+  value = Modpack and server maintained by George Rickard
 }
 
