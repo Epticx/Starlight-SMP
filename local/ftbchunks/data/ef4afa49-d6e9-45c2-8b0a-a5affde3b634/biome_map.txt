@@ -5,6 +5,7 @@
 #02B biomesoplenty:cherry_blossom_grove
 #420 biomesoplenty:clover_patch
 #4F9 minecraft:dark_forest
+#34D minecraft:deep_lukewarm_ocean
 #010 minecraft:forest
 #0AF biomesoplenty:glowing_grotto
 #67B biomesoplenty:grassland
@@ -32,3 +33,4 @@
 #3AF minecraft:sparse_jungle
 #51A minecraft:stony_shore
 #297 terralith:tropical_jungle
+#2B7 minecraft:warm_ocean
