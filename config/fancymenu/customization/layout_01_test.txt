@@ -56,14 +56,6 @@ customization {
 }
 
 customization {
-  identifier = %id=502382%
-  orientation = mid-centered
-  x = 2
-  action = movebutton
-  y = 6
-}
-
-customization {
   identifier = %id=376382%
   orientation = mid-centered
   x = -77
@@ -149,5 +141,13 @@ customization {
   scale = 1.0
   alignment = left
   value = Modpack and server maintained by George Rickard
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = 6
 }
 
