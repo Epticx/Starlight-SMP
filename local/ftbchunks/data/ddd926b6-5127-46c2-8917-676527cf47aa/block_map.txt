@@ -11,6 +11,7 @@
 #3BA928 minecraft:birch_log
 #C9CBB9 minecraft:blackstone
 #B14754 supplementaries:block_generator
+#0F415A domum_ornamentum:blockbarreldeco_standing
 #1B1A99 ars_nouveau:blue_archwood_leaves
 #53756B minecraft:brick_slab
 #03DC45 minecraft:bricks
@@ -28,8 +29,10 @@
 #3D8BFC minecraft:cobblestone_stairs
 #74DB3C minecraft:cobblestone_wall
 #F8497C minecraft:cocoa
+#036741 ecologics:coconut_fence
 #421280 ecologics:coconut_leaves
 #011FD4 ecologics:coconut_log
+#C71C9E ecologics:coconut_slab
 #E2D601 minecraft:composter
 #6E76AF minecraft:copper_ore
 #CC07F6 minecraft:cornflower
@@ -56,7 +59,9 @@
 #D7A8A5 valhelsia_structures:dirt
 #4FA7D0 minecraft:dirt_path
 #3B0AD1 minecraft:dripstone_block
+#D6ADC1 mcwbridges:dry_bamboo_bridge_stair
 #009B14 minecraft:farmland
+#9CAC14 supplementaries:flag_orange
 #A82CB2 cyclic:flower_absalon_tulip
 #6364EE cyclic:flower_cyan
 #76E8FC cyclic:flower_lime_carnation
@@ -111,6 +116,9 @@
 #BF0745 immersiveengineering:ore_aluminum
 #262421 immersiveengineering:ore_lead
 #F6678E minecraft:oxeye_daisy
+#477C23 biomesoplenty:palm_leaves
+#026301 biomesoplenty:palm_slab
+#6474A2 biomesoplenty:palm_trapdoor
 #AB1C58 minecraft:peony
 #36285C minecraft:pink_tulip
 #BB7F65 minecraft:podzol
