@@ -1,8 +1,8 @@
-[00:14:12.566][INFO]: Starting building internal Registries
-[00:14:14.284][INFO]: The following mods have explicit CraftTweaker support:
-[00:14:14.285][INFO]: 'crafttweaker' at version '9.0.61'
-[00:14:14.285][INFO]: 'mysticalagriculture' at version '5.0.2'
-[00:14:14.932][INFO]: BEP 'itemgroup' has a validator but no BEP method
-[00:14:14.992][INFO]: Completed building internal Registries
-[00:14:56.551][INFO]: Started loading Scripts for Loader 'initialize'!
-[00:14:57.303][INFO]: Finished loading Scripts!
+[00:24:57.158][INFO]: Starting building internal Registries
+[00:24:57.887][INFO]: The following mods have explicit CraftTweaker support:
+[00:24:57.889][INFO]: 'crafttweaker' at version '9.0.61'
+[00:24:57.889][INFO]: 'mysticalagriculture' at version '5.0.2'
+[00:24:59.208][INFO]: BEP 'itemgroup' has a validator but no BEP method
+[00:24:59.261][INFO]: Completed building internal Registries
+[00:25:43.227][INFO]: Started loading Scripts for Loader 'initialize'!
+[00:25:44.009][INFO]: Finished loading Scripts!
