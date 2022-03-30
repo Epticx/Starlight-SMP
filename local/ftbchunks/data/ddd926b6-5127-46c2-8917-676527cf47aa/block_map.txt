@@ -120,6 +120,7 @@
 #BF0745 immersiveengineering:ore_aluminum
 #262421 immersiveengineering:ore_lead
 #F6678E minecraft:oxeye_daisy
+#E146AE patinapipeworks:oxidized_copper_pipe
 #477C23 biomesoplenty:palm_leaves
 #026301 biomesoplenty:palm_slab
 #6474A2 biomesoplenty:palm_trapdoor
@@ -161,6 +162,7 @@
 #AB5BC7 minecraft:stone_slab
 #3B1D89 minecraft:stripped_oak_log
 #A88E8E minecraft:stripped_oak_wood
+#D5A2D9 biomesoplenty:stripped_palm_log
 #F1B8D3 supplementaries:structure_temp
 #5CF3F1 minecraft:sugar_cane
 #9209D8 minecraft:terracotta

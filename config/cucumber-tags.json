@@ -4,7 +4,7 @@
   "forge:ingots/tungsten": "null",
   "forge:ingots/tin": "null",
   "forge:gems/sapphire": "null",
-  "forge:ingots/bronze": "null",
+  "forge:ingots/bronze": "alloyed:bronze_ingot",
   "forge:ingots/electrum": "immersiveengineering:ingot_electrum",
   "forge:silicon": "tinyredstone:silicon",
   "forge:gems/apatite": "null",
