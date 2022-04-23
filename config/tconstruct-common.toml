@@ -104,6 +104,10 @@
 
 	#Options related to slime islands
 	[worldgen.slime_islands]
+		#If true, slime islands are forced into the world, ignoring datapacks decisions. Disable if you are making a custom datapack and want full control over island placement.
+		#Defaults to true because users like to pretend datapacks are mods and thus should work automatically with mods.
+		#Normally I would default this sort of thing to false, but with how datapacks are set up, mod support in a datapack is not practical. Honestly should just be a mod at that point, but...
+		forceAddToWorld = true
 
 		#Options related to earth slime islands spawning in the oceans
 		[worldgen.slime_islands.earth]
